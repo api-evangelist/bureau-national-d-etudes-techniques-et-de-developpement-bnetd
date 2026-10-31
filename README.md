@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bureau National d'Etudes Techniques et de Developpement (BNETD) is a national technical studies and development bureau; its own website is served on the .ci (Cote d'Ivoire) domain. The site returns an empty shell to every fetch strategy including a real browser, so no further description of its activities, sectors or publications could be read from it, and none is asserted here.
+No public description is available for Bureau National d'Etudes Techniques et de Developpement (BNETD). The company appears in the API Evangelist harvest backlog as a stub with limited publicly available information. Attempts to locate an official website or detailed corporate information were unsuccessful; the domain https://bnetd.com redirects to a GoDaddy for‑sale page, and other plausible domains do not resolve. No GitHub organization, documentation site, or other authoritative source was found. Consequently, the available public data consists only of the company name and its inclusion in the harvest list.
 
-**Areas:** Company · Research · Engineering · Technology
+**Areas:** Company · Research · Development · France · Technology · Engineering
 
 ## Bureau National d'Etudes Techniques et de Developpement (BNETD) on APIs.io
 
@@ -76,60 +76,36 @@ Everything profiled for Bureau National d'Etudes Techniques et de Developpement 
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Bureau National D Etudes Techniques Et De Developpement Bnetd Authentication](https://apis.io/security/bureau-national-d-etudes-techniques-et-de-developpement-bnetd/bureau-national-d-etudes-techniques-et-de-developpement-bnetd-authentication/)
 - [Bureau National D Etudes Techniques Et De Developpement Bnetd Domain Security](https://apis.io/security/bureau-national-d-etudes-techniques-et-de-developpement-bnetd/bureau-national-d-etudes-techniques-et-de-developpement-bnetd-domain-security/)
 
-## Where to find this API
+#### OAuth scopes (1)
 
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+The permissions the API asks for.
 
-- [Website](https://www.bnetd.ci/)
+- [Bureau National D Etudes Techniques Et De Developpement Bnetd Scopes](https://apis.io/scopes/bureau-national-d-etudes-techniques-et-de-developpement-bnetd/bureau-national-d-etudes-techniques-et-de-developpement-bnetd-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bureau National D Etudes Techniques Et De Developpement Bnetd Plans Pricing](https://apis.io/plans/bureau-national-d-etudes-techniques-et-de-developpement-bnetd/bureau-national-d-etudes-techniques-et-de-developpement-bnetd-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Bureau National D Etudes Techniques Et De Developpement Bnetd Rate Limits](https://apis.io/rate-limits/bureau-national-d-etudes-techniques-et-de-developpement-bnetd/bureau-national-d-etudes-techniques-et-de-developpement-bnetd-rate-limits/)
 
 ## API Evangelist rating
 
-**Kin Score 2.2** — minimal · rubric 0.25.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 35.7 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bureau-national-d-etudes-techniques-et-de-developpement-bnetd/](https://apis.io/providers/bureau-national-d-etudes-techniques-et-de-developpement-bnetd/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
